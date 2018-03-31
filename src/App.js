@@ -26,6 +26,9 @@ class App extends Component {
         <p className="App-intro" style={{backgroundColor: bgColor2}}>
           {description}
         </p>
+        <div>
+          Second commit. Automatic build test.
+        </div>
       </div>
     );
   }
